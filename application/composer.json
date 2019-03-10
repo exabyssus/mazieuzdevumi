@@ -1,0 +1,19 @@
+{
+    "description": "Cubesystems.lv small php task",
+    "name": "rolandinsh/cubesystemslvphp",
+    "type": "project",
+    "homepage": "http://codeigniter.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rolandinsh",
+            "email": "rolands@mediabox.lv"
+        }
+    ],
+    "require": {
+        "php": "^7.1|^7.2",
+        "vlucas/phpdotenv": "^2.4",
+        "simplepie/simplepie": "^1.5"
+    },
+    "minimum-stability": "stable"
+}
