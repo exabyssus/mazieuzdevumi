@@ -1,6 +1,6 @@
-# Cubesystems.lv mazais uzdevums
+# Mazais uzdevums
 
-Balstoties uz cubesystems.lv uzdevumu, izveidoju publisku repozitoriju, jo daudzas IT kompānijas prasa līdzīgus uzdevumus. 
+Balstoties uz kompāniju uzdevumiem, izveidoju publisku repozitoriju, jo daudzas IT kompānijas prasa līdzīgus uzdevumus. 
 
 ## Uzdevumi
 
