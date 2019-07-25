@@ -4,7 +4,7 @@ Balstoties uz kompāniju uzdevumiem, izveidoju publisku repozitoriju, jo daudzas
 
 ## Uzdevumi
 
-Visa sistēma ir balstīta uz PHP (7.1+) un kādu javascript risinājumu (NodeJs, Angular, Vue, React, ...).
+Visa sistēma ir balstīta uz PHP (7.3) un kādu javascript risinājumu (NodeJs, Angular, Vue, React, ...).
 
 Es izvēlējos CodeIgniter 3. Visu šo var izveidot arī ar pliku PHP vai, piem., Symfony vai citu ietvaru. CodeIgniter tika izvēlēts, jo to var uzlikt arī uz "parastā" hostinga. Citur var izmantot Symfony vai Laravel.
 
